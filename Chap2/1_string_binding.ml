@@ -6,7 +6,6 @@
     val concat : string -> string list -> string 
     val split_on_char : char -> string -> string list 
      *)
-     
 let languages = "Ocaml, Scala, Java, C, Python"
 
 let dashed_languages l = 
