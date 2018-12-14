@@ -3,7 +3,7 @@ Code examples from Real World OCaml
 
 Hopefully will be finished with Part 1 by the end of 2018!
 
-##### Mile Stones
+### Mile Stones
 |Chapter | Finished Date|
 |-----|------|
 | 2 Variables and functions | 12/14/18 -- skimmed prefix/infix/precedence|
