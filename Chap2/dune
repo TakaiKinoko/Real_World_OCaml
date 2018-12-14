@@ -1,0 +1,3 @@
+(executable
+ (name      1_variables)
+ (libraries core.std))
