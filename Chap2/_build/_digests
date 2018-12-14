@@ -1,0 +1,8 @@
+"Rule: ocaml: ml -> cmo & cmi (%=4_upper_case )": "1\004\199p\160.\246\006\181\243\183\150\163\b\232\243"
+"Rule: ocaml dependencies ml (%=05_fun_stuffed_ds )": "Yn\250\157\028\176.\006\140\139\240A\r\247)\200"
+"Rule: ocaml dependencies ml (%=4_upper_case )": "\233\016\162\252\244\173\176\216s\182D\153\164F\236D"
+"Resource: /Users/fanghan/Desktop/Real_World_OCaml/Chap2/05_fun_stuffed_ds.ml": "\193,\171C\173\006\202>BO\180A\026\155\1559"
+"Rule: ocaml: ml -> cmo & cmi (%=05_fun_stuffed_ds )": "\226QDQ\155\r8\196\218Z\136\tf\243\184\195"
+"Rule: ocaml: cmo* -> byte (%=4_upper_case )": "N\159\208\152Fcf\222\r\027\198;\160B\225\232"
+"Resource: /Users/fanghan/Desktop/Real_World_OCaml/Chap2/4_upper_case.ml": "\185\229\007\020r\229Eh\208\227\144nD2\208\176"
+"Rule: ocaml: cmo* -> byte (%=05_fun_stuffed_ds )": "B\221\020@\229?\149\213\127\161M(\157=\184\228"
